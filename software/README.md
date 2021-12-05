@@ -1,0 +1,2 @@
+- [ ] Clock freq. as low as possible
+- [ ] Interrupt-driven (timer based)
