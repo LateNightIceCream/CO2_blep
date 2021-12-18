@@ -1,0 +1,6 @@
+CCS811: eco2=1310 ppm  etvoc=138 ppb  
+CCS811: eco2=1281 ppm  etvoc=134 ppb  
+CCS811: eco2=1295 ppm  etvoc=136 ppb  
+CCS811: eco2=1310 ppm  etvoc=138 ppb  
+CCS811: eco2=1352 ppm  etvoc=145 ppb  
+CCS811: eco2=1408 ppm  etvoc=153 ppb  
